@@ -1,0 +1,37 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Microsoft Word / Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Android Studio / Gradle
+.gradle/
+.idea/
+build/
+*/build/
+local.properties
+
+# Android
+*.iml
+captures/
+
+# Kotlin
+*.class
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Fichiers système
+.DS_Store
